@@ -1,7 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">Passionate about staying up to date with the latest Flutter trends and technologies.</h3>
 
-img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e4779n1lgfmmo4x3bjpqx3j2ezjnbki9oclm2wdxfih&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<img align="right" alt="Coding" width="400" src="https://pixabay.com/images/search/nature/">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit2303&label=Profile%20views&color=0e75b6&style=flat" alt="amit2303" /> </p>
 
 - 🔭 I’m currently working on [Cube-Solver-AI](https://github.com/amit2303/Flutter-AI-Rubik-cube-Solver.git)
@@ -10,7 +14,7 @@ img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/T
 
 - 👨‍💻 All of my projects are available at [https://amit2303.github.io/website/](https://amit2303.github.io/website/)
 
-- 💬 Ask me about **Flutter,Firebase ML Kit,RESTful APIs,**
+- 💬 Ask me about Flutter,Firebase ML Kit,RESTful APIs,
 
 - 📫 How to reach me **amitmishra0323@gmail.com**
 
