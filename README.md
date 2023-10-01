@@ -1,10 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]()
 
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">Passionate about staying up to date with the latest Flutter trends and technologies.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://pixabay.com/images/search/nature/">
+<img align="right" alt="Coding" width="400" src="assets/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit2303&label=Profile%20views&color=0e75b6&style=flat" alt="amit2303" /> </p>
 
