@@ -1,4 +1,4 @@
-[![MasterHead]()
+![MasterHead](assets/63d7cb4a65406e4182d6609d_62c6fbddb12bb522962424bc_flutter_slow-2.gif)
 
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
