@@ -9,17 +9,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit2303&label=Profile%20views&color=0e75b6&style=flat" alt="amit2303" /> </p>
 
-- 🔭 I’m currently working on [Cube-Solver-AI](https://github.com/amit2303/Flutter-AI-Rubik-cube-Solver.git)
+- 🔭 I’m currently working on Flutter Clean Architecture.
 
 - 🌱 I’m currently learning **Tenser Flow lite models inside Google Flutter**
 
-- 👨‍💻 All of my projects are available at [https://amit2303.github.io/website/](https://amit2303.github.io/website/)
+- 👨‍💻 All of my projects are available at [https://amit2303.github.io/Portfolio/)
 
 - 💬 Ask me about Flutter,Firebase ML Kit,RESTful APIs,
 
 - 📫 How to reach me **amitmishra0323@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1rZ0IYvsX7raTp6KnGic4ii0BLR2sL_Xa?usp=share_link](https://drive.google.com/drive/folders/1rZ0IYvsX7raTp6KnGic4ii0BLR2sL_Xa?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
